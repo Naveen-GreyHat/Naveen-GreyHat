@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/ravan-oath.gif" alt="Cinematic Ravan-inspired title animation: एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति" width="100%" />
+<h1>एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति</h1>
+
+<img src="./assets/ravan-oath.svg" alt="Code-animated cinematic Ravan-inspired title: एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति" width="100%" />
 
 <br />
 
 <img src="./assets/terminal-boot.gif" alt="Animated terminal boot sequence introducing Naveen Upadhyay and Greyhat127." width="92%" />
 
-<h1>Naveen Upadhyay</h1>
-
-<h2>एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति</h2>
+<h2>Naveen Upadhyay</h2>
 
 **CompTIA PenTest+ certified** · **Bugcrowd Hall of Fame** · **Founder of Greyhat127**
 
