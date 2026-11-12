@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Naveen Upadhyay — cybersecurity, digital forensics, penetration testing, and security research in a green orbital interface." width="100%" />
+<img src="./assets/hero-emerald.svg" alt="Naveen Upadhyay — cybersecurity, digital forensics, penetration testing, and security research in a green orbital interface." width="100%" />
 
 <br />
 
