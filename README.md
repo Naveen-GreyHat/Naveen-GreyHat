@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-emerald.svg" alt="Naveen Upadhyay — cybersecurity, digital forensics, penetration testing, and security research in a green orbital interface." width="100%" />
+<img src="./assets/ravan-oath.gif" alt="Cinematic Ravan-inspired title animation: एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति" width="100%" />
 
 <br />
 
@@ -8,7 +8,7 @@
 
 <h1>Naveen Upadhyay</h1>
 
-<h2>I investigate the edge cases that matter.</h2>
+<h2>एको अहं द्वितीयो नास्ति, न भूतो न भविष्यति</h2>
 
 **CompTIA PenTest+ certified** · **Bugcrowd Hall of Fame** · **Founder of Greyhat127**
 
