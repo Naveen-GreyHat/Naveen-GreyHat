@@ -1,74 +1,81 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Naveen Upadhyay — cybersecurity, digital forensics and security research. A luminous three-dimensional N sits inside an orbital grid." width="100%" />
+<img src="./assets/hero.svg" alt="Naveen Upadhyay — cybersecurity, digital forensics, penetration testing, and security research in a green orbital interface." width="100%" />
 
-### I investigate systems, explain risk, and build useful tools.
+<br />
 
-**Penetration testing** · **Digital forensics** · **Web & smart contract security**
+<img src="./assets/terminal-boot.gif" alt="Animated terminal boot sequence introducing Naveen Upadhyay and Greyhat127." width="92%" />
 
-[Explore the interactive 3D portfolio](https://naveen-greyhat.github.io/Naveen-GreyHat/) · [LinkedIn](https://www.linkedin.com/in/greyhat127/) · [Email me](mailto:naveenupadhyay8070@gmail.com)
+<h1>Naveen Upadhyay</h1>
+
+<h2>I investigate the edge cases that matter.</h2>
+
+**CompTIA PenTest+ certified** · **Bugcrowd Hall of Fame** · **Founder of Greyhat127**
+
+[Explore my interactive 3D portfolio](https://naveen-greyhat.github.io/Naveen-GreyHat/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/greyhat127/) &nbsp;•&nbsp; [Email](mailto:naveenupadhyay8070@gmail.com)
 
 </div>
 
 ---
 
-I'm **Naveen Upadhyay**, a CompTIA PenTest+ certified security researcher and the founder of **Greyhat127**. My work spans web application testing, digital forensics, bug bounty research, and security tooling. I study **Cyber Security & Blockchain** at Lovely Professional University and bring more than three years of hands-on security experience.
+## 0x01 / WHOAMI
 
-My approach is simple: **find the failure mode, demonstrate its impact clearly, and leave behind something that helps fix it.**
+I'm **Naveen Upadhyay**, a cybersecurity and digital forensics analyst with 3+ years of hands-on experience across web application security, penetration testing, bug bounty research, and smart contracts. I turn findings into clear evidence, practical fixes, and tools that make the next investigation faster.
 
-### What I work on
-
-| 01 / Discover | 02 / Investigate | 03 / Build |
-| :--- | :--- | :--- |
-| Web application assessments, OWASP Top 10, bug bounty research, and DeFi / oracle security. | Digital forensics, incident analysis, traffic inspection, and security monitoring with SIEM / EDR. | Python automation, security research tools, smart contracts, and practical web products. |
-
-### Selected work
-
-| Project | Why it matters |
-| :--- | :--- |
-| **[Lido V3 oracle research](https://github.com/Naveen-GreyHat/Bug-Bounty-Comp-Lido-V3)** | Documented how stale oracle data could overwrite fresher reports, with an explanation of the downstream reliability risk. |
-| **[CTF Flag Search](https://github.com/Naveen-GreyHat/CTF_Flag_search)** | Python automation for finding hidden flags during capture-the-flag challenges. |
-| **[PANNA](https://github.com/Naveen-GreyHat/PANNA)** | A local-LLM terminal assistant for chat, code generation, and script workflows. |
-| **[Event Registration Smart Contract](https://github.com/Naveen-GreyHat/EventRegistration-Smart-Contract)** | A decentralized event registration concept built with Solidity. |
-| **[Corrugated Box Calculator](https://github.com/Naveen-GreyHat/corrugated-box-calculator)** | A real-world cost and profit tool for manufacturing decisions. |
+I founded **Greyhat127** to share hands-on security education and research. I'm pursuing a **B.Tech (Hons.) in Cyber Security & Blockchain** at Lovely Professional University.
 
 <div align="center">
-
-**[See the full portfolio and interact with the 3D security core →](https://naveen-greyhat.github.io/Naveen-GreyHat/)**
-
+<img src="./assets/security-orbit.gif" alt="Animated green security orbit highlighting research, forensics, and engineering." width="78%" />
 </div>
 
-### Proof points
+## 0x02 / SELECTED WORK
 
-- **CompTIA PenTest+** (PT0-003), active September 2026–September 2029; **Quick Heal Certified Digital Forensics Investigator**.
-- **Bugcrowd Hall of Fame** recognition for security research.
-- **3rd place** at the Cisco Cyber Security Symposium CTF; **7th place** at Republic of Cyber Sentinels CTF.
-- **Founder, Greyhat127** — cybersecurity education, tutorials, and research since 2019.
+These are the projects I would open first in a technical conversation:
 
-### Experience
+| Work | The problem and my approach |
+| :--- | :--- |
+| **[Lido V3 oracle research](https://github.com/Naveen-GreyHat/Bug-Bounty-Comp-Lido-V3)** | Analyzed report monotonicity and documented how stale oracle data could overwrite fresher data in a DeFi system. |
+| **[CTF Flag Search](https://github.com/Naveen-GreyHat/CTF_Flag_search)** | Built Python tooling to speed up flag discovery during capture-the-flag challenges. |
+| **[PANNA](https://github.com/Naveen-GreyHat/PANNA)** | Built a local-LLM terminal assistant for chat, code generation, and script workflows. |
+| **[Event Registration Smart Contract](https://github.com/Naveen-GreyHat/EventRegistration-Smart-Contract)** | Designed a decentralized registration workflow with Solidity and Hardhat. |
+| **[Corrugated Box Calculator](https://github.com/Naveen-GreyHat/corrugated-box-calculator)** | Translated manufacturing pricing needs into a usable cost and profit tool. |
+
+<div align="center">
+<a href="https://naveen-greyhat.github.io/Naveen-GreyHat/"><strong>VIEW THE FULL INTERACTIVE PORTFOLIO ↗</strong></a>
+</div>
+
+<br />
+
+<img src="./assets/signal-divider.gif" alt="" width="100%" />
+
+## 0x03 / PROOF OF WORK
+
+| Recognition & credentials | Experience |
+| :--- | :--- |
+| **CompTIA PenTest+ (PT0-003)** — active Sep 2026–Sep 2029<br>**Quick Heal Certified Digital Forensics Investigator**<br>**Bugcrowd Hall of Fame** recognition<br>**3rd place** — Cisco Cyber Security Symposium CTF<br>**7th place** — Republic of Cyber Sentinels CTF | **Penetration Tester**, Kreovate Nusa Digital · 2025–2026<br>**Founder & Cybersecurity Educator**, Greyhat127 · 2019–present<br>**COO & Web Developer**, Dharma Group · 2024<br>**B.Tech (Hons.) CSE**, Cyber Security & Blockchain, LPU · 2023–2027 |
 
 <details>
-<summary><strong>Open experience and education</strong></summary>
+<summary><strong>More experience and competitions</strong></summary>
 
-| Period | Role | Focus |
-| :--- | :--- | :--- |
-| 2025–2026 | Penetration Tester · Kreovate Nusa Digital | Web and application security role. |
-| 2019–present | Founder & Cybersecurity Educator · Greyhat127 | Security education, research, assessments, and remediation reporting. |
-| 2024 | COO & Web Developer · Dharma Group | SIEM/EDR monitoring, security awareness, digital transformation, and a pricing calculator. |
-| 2022–2023 | Research Study Assistant & Web Designer · Fundoo Tutor | Educational web pages and digital learning assets. |
-| 2022–2023 | SEO & YouTube Intern · Saral Bharat | Search optimization and analytics. |
-| 2022–2023 | Video Content Creation Intern · ProgrammingKnowledge | Ubuntu and Kali Linux tutorials. |
-
-**Education:** B.Tech (Hons.) in Computer Science Engineering, Cyber Security & Blockchain · Lovely Professional University · 2023–2027.
+- **Fundoo Tutor** — Research Study Assistant and Web Designer, 2022–2023.
+- **Saral Bharat** — SEO and YouTube Intern, 2022–2023.
+- **ProgrammingKnowledge** — Video Content Creation Intern for Linux tutorials, 2022–2023.
+- IIT Jodhpur CTF offline-round participant with Team Greyhat127; Binary Blitz Web Hackathon finalist at LPU.
 
 </details>
 
-### Toolkit
+## 0x04 / TOOLKIT
 
-Python · JavaScript · Solidity · SQL · Django · Flask · Linux · Burp Suite · Wireshark · Metasploit · Git · SIEM / EDR
+| Offensive security | Forensics & defense | Development & blockchain |
+| :--- | :--- | :--- |
+| Web application testing · OWASP Top 10 · Burp Suite · Metasploit · Kali Linux | Digital forensics · Wireshark · incident analysis · SIEM · EDR | Python · JavaScript · Solidity · SQL · Django · Flask · Linux · Git |
 
----
+<div align="center">
+<img src="./assets/signal-scan.gif" alt="Animated emerald scan progressing from discovery to validation and responsible reporting." width="100%" />
+</div>
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/greyhat127/) · [Email](mailto:naveenupadhyay8070@gmail.com) · [Website Risk & Revenue Audit](https://naveen-greyhat.github.io/website-audit/)
+## 0x05 / CONNECT
 
-<sub>Security research is conducted on owned, lab, bug bounty, or explicitly authorized targets.</sub>
+**Have a security research, forensics, or engineering problem worth solving?** [Email me](mailto:naveenupadhyay8070@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/greyhat127/), or explore the [3D portfolio](https://naveen-greyhat.github.io/Naveen-GreyHat/).
+
+<sub>Security work is performed on owned, lab, bug bounty, or explicitly authorized targets.</sub>
